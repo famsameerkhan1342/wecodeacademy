@@ -1,2 +1,2 @@
-# wecodeacademy
- training repository
+# wecodeacademy_js
+Training files for JavaScript classes
