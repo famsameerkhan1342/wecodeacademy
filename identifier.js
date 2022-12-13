@@ -13,9 +13,25 @@ function sum(a, b) {
 
 //Invalid Identifier examples
 let 12x = 10;
-let &value  = 10;
+let &value = 10;
 
 //Valid Identifier examples
 let x12 = 10;
 let _value  = 20;
 let $_value = 100;
+ 
+/*
+     Identifiers:
+               Yaha ak unicname hota hai.
+
+               for example:Variable name 
+
+
+      
+         Rules for creating identifier:
+                                   identifier banany ka leya hum in Character       
+                        
+
+
+
+*/
