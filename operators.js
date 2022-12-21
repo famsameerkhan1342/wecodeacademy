@@ -57,3 +57,13 @@ condition 1(e.g., X)	condition 2(e.g., Y)	NOT X( ~ X )	X AND Y( X && Y )	X OR Y(
     true	                false	                false	        false	            true
     true	                true	                false	        true	            true
 */
+
+/*
+
+
+ 
+
+
+
+
+ */

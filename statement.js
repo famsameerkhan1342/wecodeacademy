@@ -16,8 +16,7 @@ grouped with conditional statements or inside function.
 
 //Semicolon in JavaScript
 /*
-In JavaScript, Semicolons are optional. Simple statements in JavaScript are generally followed by a semicolon character, just as they are in C, C++, and Java. 
-JavaScript, however, allows you to omit this semicolon if each of your statements is placed on a separate line.
+In JavaScript, Semicolons are optional. Simple statements in JavaScript are generally followed by a semicolon character, just as they are in C, C++, and Java. JavaScript, however, allows you to omit this semicolon if each of your statements is placed on a separate line.
 */
 
 //WhiteSpace in statement
@@ -25,3 +24,12 @@ JavaScript, however, allows you to omit this semicolon if each of your statement
 let val =            10                      ; //whitespace here doesnt matter
 let str = "           Hello            "; //Whitespace here will matter
 let num  = 1          0; // this is not valid
+ 
+
+/*
+
+Whar is a Statement ?
+kisi bhi progrsmming language ma Statement va code hota hai jo Semi colan se end hota hai .javascript ma Semi colan lagana jaruri nahi hai.
+
+
+ */
