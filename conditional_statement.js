@@ -34,7 +34,8 @@ if ((j < 20 && k > 10) || j + 10 === 20) {
 }
 
 // ==========if==========
-// if statemant ka use tab hota jad hum sure ho ki condition true ha.false bhi ho skti hai but normally true ka leya he use hota hai.
+/* if statemant ka use tab hota jad hum sure ho ki condition true ha.false bhi ho skti
+ hai but normally true ka leya he use hota hai.*/
 // Sayntax:
 if (condition) {
   console.log(true);
