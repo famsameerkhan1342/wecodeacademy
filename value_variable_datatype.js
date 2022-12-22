@@ -61,5 +61,11 @@ vaha data type hoti hai jisko user khud define kar ta hai.Non primitve data type
 
 
 
+value and variable
+value vah data type hoti hain.jise hum kisi variable me stoe krate  hain.
+
+variable ak identyfire hota hain.jise ke hum alg alg trha ke value store krane ke leya use karte hain.
+
+
 
 */

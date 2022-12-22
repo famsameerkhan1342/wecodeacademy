@@ -19,3 +19,17 @@ if (10) {
 } else {
   console.log("No");
 }
+
+/*
+truthy and falsy values 
+
+truthy value vah value hoti hain. jinka answer true hota hain.
+
+falsy vah value hoti hain.jinka answer false hota hain.
+1.)Undifine(not a value ) 
+2.) 0 
+3.)NaN (not a number)
+
+
+
+*/
