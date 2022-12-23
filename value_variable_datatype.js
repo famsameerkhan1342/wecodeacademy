@@ -41,7 +41,8 @@ let arr = [1, 2, 3, 4, 5];
 
 /*
 What is Dtat type 
-Dtat type kisi bhi data ki type btata hai.ki va data kis type ka hai.data tyoe two type ka hotay hai.
+Dtat type kisi bhi data ki type btata hai.ki va data kis type ka hai.data tyoe two type
+ka hotay hai.
 
 (1)primitive data type(inbuilt data type )
 vaha data type hoti hai jo kisi bhi programming language ma pre define data type hoti hai.  
@@ -55,7 +56,8 @@ ki data type undefine hogi
 
 
 (2)Non primitve data type:
-vaha data type hoti hai jisko user khud define kar ta hai.Non primitve data type ma hum difrent type ka data store kar saktay hai. 
+vaha data type hoti hai jisko user khud define kar ta hai.Non primitve data type ma hum 
+difrent type ka data store kar saktay hai. 
 1)object.
 2)array.
 
@@ -64,7 +66,8 @@ vaha data type hoti hai jisko user khud define kar ta hai.Non primitve data type
 value and variable
 value vah data type hoti hain.jise hum kisi variable me stoe krate  hain.
 
-variable ak identyfire hota hain.jise ke hum alg alg trha ke value store krane ke leya use karte hain.
+variable ak identyfire hota hain.jise ke hum alg alg trha ke value store krane ke leya 
+use karte hain.
 
 
 

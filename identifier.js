@@ -9,7 +9,8 @@ function sum(a, b) {
 
 //Rules for creating identifier
 
-//In JavaScript, identifiers are case-sensitive and can contain Unicode letters, $, _, and digits (0-9), but may not start with a digit.
+//In JavaScript, identifiers are case-sensitive and can contain Unicode letters,
+// $, _, and digits (0-9), but may not start with a digit.
 
 //Invalid Identifier examples
 let 12x = 10;

@@ -1,5 +1,7 @@
 /*Loose equality operator ==
-The equality operator (==) checks whether its two operands are equal, returning a Boolean result. Unlike the strict equality operator, it attempts to convert and compare operands that are of different types.
+The equality operator (==) checks whether its two operands are equal, returning a Boolean 
+result. Unlike the strict equality operator, it attempts to convert and compare operands
+that are of different types.
 
 */
 
@@ -58,7 +60,9 @@ console.log(typeof m); //string
 
 /*
 loose equality operator(==)
-yaha do variable ko compair karta hain.pr compair karta time data type strictly check nahi karta hain.or jha bhi possibal hota hain vaha omomatic type conversion karke value compair karta hain.
+yaha do variable ko compair karta hain.pr compair karta time data type strictly check 
+nahi karta hain.or jha bhi possibal hota hain vaha omomatic type conversion karke value
+compair karta hain.
 */
 var x = 20;
 var y = "20";
@@ -71,7 +75,8 @@ if (x == y) {
 /*
 
 strict equality operator(====)
-yaha 2 value ko strictly check karta hain.iska mtlb hain ke value ka sath sath data type bhi check karta hain.
+yaha 2 value ko strictly check karta hain.iska mtlb hain ke value ka sath sath data type
+bhi check karta hain.
 */
 var x = "20";
 var y = 20;
@@ -93,7 +98,8 @@ console.log(typeof x); //string
 /*
 
 ternory operator
-yadi if else me single line ka code hain to use ternory operator ke help se karte hain
+yadi if else me single line ka code hain to use ternory operator ke help se karte
+hain
 */
 let x = 10;
 x < 20 ? console.log("yes") : console.log("no");

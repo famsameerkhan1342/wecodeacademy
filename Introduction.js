@@ -5,7 +5,7 @@ what is a programming language ?
 
 what is high level programming language ?
     high level programming language ka matlab hai ki code likhna ka alava bhut sara 
-    asya action hotay hai jo language khud handel karti hai. for example :
+    asye action hotay hai jo language khud handel karti hai. for example :
     1) memory managemant.
     2) communication with heardware.
        

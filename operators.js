@@ -1,5 +1,9 @@
 /* 
-An operator is capable of manipulating a certain value or operand. Operators are used to perform specific mathematical and logical computations on operands. In other words, we can say that an operator operates the operands. In JavaScript operators are used for compare values, perform arithmetic operations etc. There are various operators supported by JavaScript:  
+An operator is capable of manipulating a certain value or operand. Operators are used to
+perform specific mathematical and logical computations on operands. In other words, we
+can say that an operator operates the operands. In JavaScript operators are used for
+compare values, perform arithmetic operations etc. There are various operators
+supported by JavaScript:  
     => Arithmetic Operators
         +	Addition
         -	Subtraction
